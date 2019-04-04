@@ -1,0 +1,29 @@
+{
+  "name": "practicetdd",
+  "version": "1.0.0",
+  "description": "Pratice Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hadeneekeh/practiceTDD.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "kafee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hadeneekeh/practiceTDD/issues"
+  },
+  "homepage": "https://github.com/Hadeneekeh/practiceTDD#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mocha": "^6.0.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}
